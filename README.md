@@ -2,7 +2,11 @@
 [![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fmpittas.github.io%2Fsocial-media-crud%2F?logo=github&label=Demo&link=https%3A%2F%2Fmpittas.github.io%2Fsocial-media-crud%2F)](https://mpittas.github.io/social-media-crud/)
 
 
+## Demo
 
+https://mpittas.github.io/social-media-crud/
+
+---
 
 # Social media (Link management)
 
@@ -20,9 +24,4 @@ Key Features:
 - **Validation and Error Handling:** The application includes URL validation to ensure that only proper links are saved, and provides user feedback for incorrect inputs.
 
 - **Ease of Use and Accessibility:** With a user-friendly interface, the project allows for easy management of social media links, catering to a wide range of users.
-
-
-## Demo
-
-https://mpittas.github.io/social-media-crud/
 
